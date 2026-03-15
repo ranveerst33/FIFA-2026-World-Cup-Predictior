@@ -7,6 +7,20 @@
 
 An advanced Machine Learning ecosystem designed to simulate and forecast the outcomes of the **FIFA 2026 World Cup** (USA, Mexico, Canada). This dashboard leverages historical data from 1930–2022 to provide high-fidelity match predictions and interactive tournament visualizations.
 
+## 📸 Feature Previews
+
+### 🏠 Home Dashboard (ELO Analytics)
+![Home Dashboard & ELO Ratings](screenshots/home_preview.png)
+
+### 🏆 Interactive Finals Bracket
+![Tournament Simulation](screenshots/bracket_preview.png)
+
+### 👥 Custom Playing XI Builder
+![Custom XI Selection Interface](screenshots/custom_xi_preview.png)
+
+### 🏥 Live Injury Impact Analyzer
+![Live Injury Impact System](screenshots/injury_preview.png)
+
 ---
 
 ## 🌟 Key Features
